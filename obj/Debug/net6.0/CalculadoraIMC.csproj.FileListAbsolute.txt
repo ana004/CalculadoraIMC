@@ -1,0 +1,30 @@
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.exe
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.deps.json
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.runtimeconfig.json
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\refint\CalculadoraIMC.dll
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\paula\OneDrive\Documentos\LÓGICA 3\Projetos\CalculadoraIMC\obj\Debug\net6.0\ref\CalculadoraIMC.dll
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.exe
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.deps.json
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.runtimeconfig.json
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\refint\CalculadoraIMC.dll
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\ref\CalculadoraIMC.dll
