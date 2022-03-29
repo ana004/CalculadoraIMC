@@ -28,3 +28,4 @@ C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\
 C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.pdb
 C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.genruntimeconfig.cache
 C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\ref\CalculadoraIMC.dll
+C:\Users\IFSP\desktop\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.pdb
