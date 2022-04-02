@@ -34,6 +34,22 @@ namespace EstudoDotNet
                 Console.WriteLine("Obesidade II (severa)");
             else if (imc >= 40)
                 Console.WriteLine("Obesidade III (mórbida)");
+            
+            double massa;
+            double pesoGanharPerder;
+            if (imc < 18.50) 
+            {
+                massa = Math.Round(18.50*(altura*altura), 2);
+                pesoGanharPerder = massa - peso;
+                Console.WriteLine("Massa necessária para o peso normal (IMC 18,50): " + massa);
+                Console.WriteLine("Massa necessária a ganhar para chegar ao peso normal (IMC 18,50): " + pesoGanharPerder);
+            } else if (imc > 24.99)
+            {
+                massa = Math.Round(24.99*(altura*altura), 2);
+                pesoGanharPerder = peso - massa;
+                Console.WriteLine("Massa necessária para o peso normal (IMC 24.99): " + massa);
+                Console.WriteLine("Massa necessária a perder para chegar ao peso normal (IMC 24.99): " + pesoGanharPerder);
+            }
         }
     }
 }

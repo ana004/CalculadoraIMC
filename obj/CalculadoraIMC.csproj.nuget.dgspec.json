@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paula\\OneDrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\CalculadoraIMC.csproj": {}
+    "C:\\Users\\paula\\Onedrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paula\\OneDrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\CalculadoraIMC.csproj": {
+    "C:\\Users\\paula\\Onedrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paula\\OneDrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\CalculadoraIMC.csproj",
+        "projectUniqueName": "C:\\Users\\paula\\Onedrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
         "projectName": "CalculadoraIMC",
-        "projectPath": "C:\\Users\\paula\\OneDrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\CalculadoraIMC.csproj",
+        "projectPath": "C:\\Users\\paula\\Onedrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
         "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paula\\OneDrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\obj\\",
+        "outputPath": "C:\\Users\\paula\\Onedrive\\Documentos\\LG3\\Projetos\\CalculadoraIMC\\CalculadoraIMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,16 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -49,11 +57,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
