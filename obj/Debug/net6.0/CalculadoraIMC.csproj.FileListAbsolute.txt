@@ -29,3 +29,11 @@ C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\
 C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.genruntimeconfig.cache
 C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\obj\Debug\net6.0\ref\CalculadoraIMC.dll
 C:\Users\IFSP\desktop\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\IFSP\Desktop\SP3044505\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\IFSP\Desktop\SP3044505\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Desktop\SP3044505\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\IFSP\Desktop\SP3044505\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\IFSP\Desktop\SP3044505\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Desktop\SP3044505\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\IFSP\Desktop\SP3044505\CalculadoraIMC\obj\Debug\net6.0\refint\CalculadoraIMC.dll
+C:\Users\IFSP\Desktop\SP3044505\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.pdb
